@@ -1,6 +1,6 @@
 {
   "title": "Whim Auth0 Authentication API Debugger",
-  "name": "auth0-authentication-api-debugger",
+  "name": "whim-auth0-authentication-api-debugger",
   "version": "2.0.0",
   "author": "auth0",
   "useHashName": false,
@@ -8,7 +8,7 @@
   "type": "application",
   "docsUrl": "https://auth0.com/docs/extensions/authentication-api-debugger",
   "logoUrl": "https://cdn.auth0.com/extensions/auth0-authentication-api-debugger/assets/logo.svg",
-  "repository": "https://github.com/auth0-extensions/auth0-authentication-api-debugger-extension",
+  "repository": "https://github.com/onawhim/auth0-authentication-api-debugger-extension",
   "keywords": [
     "auth0",
     "extension"
