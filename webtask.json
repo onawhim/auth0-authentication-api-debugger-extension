@@ -2,7 +2,7 @@
   "title": "Whim Auth0 Authentication API Debugger",
   "name": "whim-auth0-authentication-api-debugger",
   "version": "2.0.0",
-  "author": "auth0",
+  "author": "mishagray",
   "useHashName": false,
   "description": "This extension allows you to test and debug the various Authentication API endpoints",
   "type": "application",
